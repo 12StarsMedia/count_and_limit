@@ -1,6 +1,6 @@
 # Count and Limit fieldtype for Statamic
 
-A Statamic fieldtype to count and/or limit character input.
+A Statamic fieldtype to count and/or limit character input. Excellent for use with meta tags.
 
 ![](https://dl.dropboxusercontent.com/u/1113046/candidioassets/count_and_limit_screenshot.png)
 
