@@ -34,7 +34,7 @@ class Fieldtype_count_and_limit extends Fieldtype
             'tabindex' => $this->tabindex,
             'type' => 'text',
             'class' => 'text count_and_limit',
-            'id' => $this->field_id . '-count_and_limit'
+            'id' => 'id_'.$this->field_id . '-count_and_limit'
         );
 
         if ( ! is_null($limit) ) {
@@ -59,7 +59,7 @@ class Fieldtype_count_and_limit extends Fieldtype
         if ( ! is_null($count) ) {
             $html .= "<script>
                         function _{$this->field_id}() {
-                            var input = document.querySelector('#{$this->field_id}-count_and_limit');
+                            var input = document.querySelector('#id_{$this->field_id}-count_and_limit');
                             var length = input.value.length;
 
                             _{$this->field_id}_update_count(length);
