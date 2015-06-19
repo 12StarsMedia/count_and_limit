@@ -2,7 +2,7 @@
 
 A Statamic fieldtype to count and/or limit character input.
 
-![Screenshot](https://d1zjcuqflbd5k.cloudfront.net/files/acc_178269/1ksRK?response-content-disposition=inline;%20filename=Screen%20Shot%20on%202015-06-19%20at%2013%3A31%3A10.png&Expires=1434742339&Signature=VhmtPn2Mp04FMyDEqLdiCzLbvGyyWef1SDuMmXzZ9fpWOPAPxhEFd12enfTfIW1r2ytsHqwVXm4SZyPBFUs13imD74luBixw4rdB3Lo7xG4g9q2zNyzUdoUoLYAX7EbALKYe2YdNZ4EAULcyjPOkPwoMOazeAhMT--RnX5GJIQk_&Key-Pair-Id=APKAJTEIOJM3LSMN33SA)
+![Screenshot](https://photos-2.dropbox.com/t/2/AAAdbYyg4pf4t5LH8_QE_eNgxLMefmDZxRGoru53zx9w8w/12/1113046/png/32x32/1/_/1/2/Screenshot%202015-06-19%2013.38.53.png/CNb3QyABIAIgAyAEIAUgBiAHKAEoAg/qxD2O_6hy2tDFvU5km8K5_N4v3OdC-gWG0x4QE4Q9Pw?size=1280x960&size_mode=2)
 
 ## Changelog ##
 
