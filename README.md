@@ -6,6 +6,7 @@ A Statamic fieldtype to count and/or limit character input. Excellent for use wi
 
 ## Changelog ##
 
+0.1.1 - Ensure ID's don't start with numbers
 0.1.0 - Initial release
 
 ## Installation ##
