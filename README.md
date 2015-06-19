@@ -2,7 +2,7 @@
 
 A Statamic fieldtype to count and/or limit character input.
 
-![Screenshot](https://photos-2.dropbox.com/t/2/AAAdbYyg4pf4t5LH8_QE_eNgxLMefmDZxRGoru53zx9w8w/12/1113046/png/32x32/1/_/1/2/Screenshot%202015-06-19%2013.38.53.png/CNb3QyABIAIgAyAEIAUgBiAHKAEoAg/qxD2O_6hy2tDFvU5km8K5_N4v3OdC-gWG0x4QE4Q9Pw?size=1280x960&size_mode=2)
+![](https://dl.dropboxusercontent.com/u/1113046/candidioassets/count_and_limit_screenshot.png)
 
 ## Changelog ##
 
