@@ -45,7 +45,7 @@ This plugin follows [Semantic Versioning](http://semver.org/)
 
 [12 Stars Media](http://12starsmedia.com), &copy; 2015
 
-[@12starsmedia](http://twitter.com/12starsmedia) - [@candidio](http://www.candidio.com)
+[@12starsmedia](http://twitter.com/12starsmedia) - [@candidio](http://twitter.com/candidio)
 
 [Licensed under the MIT License](http://www.opensource.org/licenses/mit-license.php)
 
