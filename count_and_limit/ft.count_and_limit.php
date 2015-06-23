@@ -34,7 +34,8 @@ class Fieldtype_count_and_limit extends Fieldtype
             'tabindex' => $this->tabindex,
             'type' => 'text',
             'class' => 'text count_and_limit',
-            'id' => 'id_'.$this->field_id . '-count_and_limit'
+            'id' => 'id_'.$this->field_id . '-count_and_limit',
+            'value' -> $this->field_data
         );
 
         if ( ! is_null($limit) ) {
@@ -49,7 +50,7 @@ class Fieldtype_count_and_limit extends Fieldtype
 
         if ( ! is_null($count) ) {
             $html .= "<div class='count_and_limit__counter'>Character Count: ";
-            $html .= "<span class='{$this->field_id}_count'>0</span>";
+            $html .= "<span class='_{$this->field_id}_count'>0</span>";
             if ( ! is_null($limit) ) {
                 $html .= "/<span class='limit'>{$limit}</span>";
             }
@@ -66,7 +67,7 @@ class Fieldtype_count_and_limit extends Fieldtype
                         }
 
                         function _{$this->field_id}_update_count(count) {
-                            document.querySelector('.{$this->field_id}_count').innerHTML = count;
+                            document.querySelector('._{$this->field_id}_count').innerHTML = count;
                         }
 
                         _{$this->field_id}();
